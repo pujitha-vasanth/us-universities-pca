@@ -9,7 +9,7 @@ The objective of this problem is to reduce the number of features by using dimen
 # Dataset:
 The Education dataset contains information on various colleges in USA. It contains the following information:
 
-Names: Names of various universities and colleges
+Names: Names of various universities and colleges <br>
 Apps: Number of applications received
 Accept: Number of applications accepted
 Enroll: Number of new students enrolled
